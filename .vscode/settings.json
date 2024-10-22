@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "cstddef": "cpp",
+        "cstdio": "cpp",
+        "stdint.h": "c",
+        "gpio.h": "c",
+        "stddef.h": "c",
+        "string.h": "c",
+        "interrupt.h": "c",
+        "ioctl.h": "c",
+        "ioctls.h": "c",
+        "ioctl-types.h": "c",
+        "features.h": "c",
+        "ttydefaults.h": "c"
+    }
+}
